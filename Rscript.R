@@ -8,3 +8,5 @@ Spec1 <- AAbsAnC[2:5,3:402]
 Spec2 <- AAbsAnC[6:10,3:402]
 Specfull <- AAbsAnC[2:308,3:402]
 
+#install.packages("ChemometricsWithR")
+#install.packages("ChemoSpec")
